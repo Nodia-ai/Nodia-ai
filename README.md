@@ -24,8 +24,6 @@ We're building a self-healing, distributed network to democratize AI compute and
 - **Scalable by Design:** Seamlessly add new Nodia Devices to expand network capacity without downtime.
 - **Eco-Friendly:** Low-power Nodia Devices reduce the carbon footprint of AI compute.
 
-(> 🔒 All modules are in development, except Crypto and Core. Life, Ops, and Vitals are in advanced testing, while Crypto and Core are under continuous refinement.)
-
 
 ---
 
@@ -77,12 +75,12 @@ The NODIA Token is the native cryptocurrency of the Nodia network, built as an S
 ## Partners and Integrations
 
 We collaborate with leading technology providers to build a robust ecosystem:
-[NVIDIA:](https://nvidia.com/)
-[ARWEAVE:](https://arweave.org/)
-[HELIUS:](https://helius.xyz/)
-[HUGGING FACE:](https://huggingface.co/)
-[CHAINLINK:](https://chain.link/)
-[THE GRAPH:](https://thegraph.com/)
+[NVIDIA](https://nvidia.com/)
+[ARWEAVE](https://arweave.org/)
+[HELIUS](https://helius.xyz/)
+[HUGGING FACE](https://huggingface.co/)
+[CHAINLINK](https://chain.link/)
+[THE GRAPH](https://thegraph.com/)
 
 
 ---
@@ -92,11 +90,11 @@ We collaborate with leading technology providers to build a robust ecosystem:
 
 Join our growing community and stay updated:
 - [Official Website](https://nodia.io/) 
-- [GitBook Whitepaper](https://nodia.gitbook.io/nodia-docs/)
+- [Whitepaper](https://nodia.gitbook.io/nodia-docs/)
 - [X/Twitter](https://x.com/Nodia_ai/)
 - [Join Beta Access](https://dashboard.nodia.io/) 
 - [Official Announcements](https://t.me/NodiaOfficial/)
-- 
+
 
 ---
 
