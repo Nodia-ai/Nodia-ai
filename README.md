@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Nodia-ai/Nodia-ai/blob/main/Media-Kit/PNG-Images/Nodia%20Banner.png" alt="Nodia Banner" width="100%" />
-</p>
+![Nodia Banner](https://raw.githubusercontent.com/Nodia-ai/Nodia-ai/main/Media-Kit/PNG-Images/Nodia%20Banner.png)
 
 
 
