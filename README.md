@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Nodia-ai/Nodia-ai/blob/main/Media-Kit/PNG-Images/Nodia%20Banner.png" alt="Aibo Logo Banner" width="100%" />
+</p>
 
 
 
