@@ -75,6 +75,7 @@ The NODIA Token is the native cryptocurrency of the Nodia network, built as an S
 ## Partners and Integrations
 
 We collaborate with leading technology providers to build a robust ecosystem:
+
 [NVIDIA](https://nvidia.com/)
 [ARWEAVE](https://arweave.org/)
 [HELIUS](https://helius.xyz/)
